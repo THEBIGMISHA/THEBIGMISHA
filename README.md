@@ -1,5 +1,7 @@
-![](data/Images/welcome.svg)
-![](data/Images/hat.jpg)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Michael</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Self-taught programmer, I write code because I like it</h3>
+
 |**Property**|**Data**|
 |---|---|
 **Language / IDE**|[![Python](https://img.shields.io/badge/-Python-449?style=flat&logo=Python&logoColor=white)](https://github.com/THEBIGMISHA?tab=repositories&language=python) [![Arduino++](https://img.shields.io/badge/-Arduino++-088?style=flat&logo=Arduino&logoColor=white)](https://github.com/THEBIGMISHA?tab=repositories&language=c%2B%2B) [![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-08D?style=flate&logo=VisualStudioCODE)](https://code.visualstudio.com/) [![SublimeText](https://img.shields.io/badge/-Sublime_Text-333?style=flate&logo=Sublimetext)](https://www.sublimetext.com/)  [![ArduinoIDE](https://img.shields.io/badge/-Arduino_IDE-088?style=flate&logo=Arduino&logoColor=white)](https://www.arduino.cc/)|
@@ -8,3 +10,8 @@
 |**Databases**| **SOON**|
 |**Operating System**| [![Ubuntu](https://img.shields.io/badge/-Ubuntu-111?style=flat&logo=Ubuntu&logoColor=E52)](https://ubuntu.com/) [![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=Windows&logoColor=079)](https://support.microsoft.com/windows)
 |**Tools / Platform**| [![Arduino](https://img.shields.io/badge/-Arduino-088?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+
+
+
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=THEBIGMISHA&hide_border=true&theme=redical)
