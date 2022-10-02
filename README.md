@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&width=435&lines=Гомосек;Админ;Разраб;Дизайнер;Гетер;Клоун;Миха;)](https://git.io/typing-svg)
-### SOON
+# Welcome To My Profile
 |**Property**|**Data**|
 |---|---|
 |**Language / IDE**|[![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python)](https://github.com/THEBIGMISHA?tab=repositories&language=python) [![ArduinoC++](https://img.shields.io/badge/-Arduino_C++-333?style=flat-square&logo=Arduino)](https://github.com/THEBIGMISHA?tab=repositories&language=c%2B%2B) [![VSCODE](https://img.shields.io/badge/-VS_Code-333?style=flat-square&logo=VisualstudioCODE)](https://code.visualstudio.com/) [![SublimeText](https://img.shields.io/badge/-Sublime_Text-333?style=flat-square&logo=Sublimetext)](https://www.sublimetext.com/)  [![ArduinoIDE](https://img.shields.io/badge/-Arduino_IDE-333?style=flat-square&logo=Arduino)](https://www.arduino.cc/)|
