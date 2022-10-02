@@ -1,4 +1,4 @@
-![](data/images/hat.png)
+![](data/images/hat.svg)
 
 |**Property**|**Data**|
 |---|---|
@@ -8,8 +8,6 @@
 |**Databases**| **SOON**|
 |**Operating System**| [![Ubuntu](https://img.shields.io/badge/-Ubuntu-111?style=flat&logo=Ubuntu&logoColor=E52)](https://ubuntu.com/) [![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=Windows&logoColor=079)](https://support.microsoft.com/windows)
 |**Tools / Platform**| [![Arduino](https://img.shields.io/badge/-Arduino-088?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-
-
 
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=THEBIGMISHA&hide_border=true&theme=redical)
