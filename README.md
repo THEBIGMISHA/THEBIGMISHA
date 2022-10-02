@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm Michael 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Self-taught programmer, I write code because I like it</h3>
+![](data/images/hat.png)
 
 |**Property**|**Data**|
 |---|---|
