@@ -1,5 +1,4 @@
-![](data/images/hat.svg)
-
+# Welcome To My Profile (BETA)
 |**Property**|**Data**|
 |---|---|
 **Language / IDE**|[![Python](https://img.shields.io/badge/-Python-449?style=flat&logo=Python&logoColor=white)](https://github.com/THEBIGMISHA?tab=repositories&language=python) [![Arduino++](https://img.shields.io/badge/-Arduino++-088?style=flat&logo=Arduino&logoColor=white)](https://github.com/THEBIGMISHA?tab=repositories&language=c%2B%2B) [![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-08D?style=flate&logo=VisualStudioCODE)](https://code.visualstudio.com/) [![SublimeText](https://img.shields.io/badge/-Sublime_Text-333?style=flate&logo=Sublimetext)](https://www.sublimetext.com/)  [![ArduinoIDE](https://img.shields.io/badge/-Arduino_IDE-088?style=flate&logo=Arduino&logoColor=white)](https://www.arduino.cc/)|
