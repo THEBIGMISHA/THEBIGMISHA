@@ -1,4 +1,4 @@
-[![LANGUAGE](https://img.shields.io/badge/-Русский-333?style=flat-square)](README_RU.md) [![OK](https://img.shields.io/badge/-English-088?style=flat-square)](https://github.com/THEBIGMISHA/)
+[![LANGUAGE](https://img.shields.io/badge/-Русский-333?style=flat-square)](README_RU.md) [![LANGUAGE](https://img.shields.io/badge/-English-088?style=flat-square)](https://github.com/THEBIGMISHA/)
 # Welcome To My Profile (BETA)
 ### :zap:My skils:
 |**Property**|**Data**|
