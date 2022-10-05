@@ -1,5 +1,5 @@
 [![LANGUAGE](https://img.shields.io/badge/-Русский-333?style=flat-square)](README_RU.md) [![LANGUAGE](https://img.shields.io/badge/-English-088?style=flat-square)](https://github.com/THEBIGMISHA/)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Bolt&size=30&pause=3000&color=00FF0A&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Michael+and+this+is+my+github+profile;but+I'm+new+in+IT;But+it's+now;Right+now+you+can+check+my+specs)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Bolt&size=30&pause=3000&color=00FF0A&vCenter=true&width=1000&lines=Hello%2C+I'm+Michael+and+this+is+my+github+profile;but+I'm+new+in+IT;But+it's+now;Right+now+you+can+check+my+specs)](https://git.io/typing-svg)
 ### :zap:My skils:
 |**Property**|**Data**|
 |---|---|
